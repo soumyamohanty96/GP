@@ -1,4 +1,5 @@
 Gp - Free Multipurpose HTML Bootstrap Template
+https://soumyamohanty96.github.io/GP/
 Gp is a clean and modern website template created with Bootstrap framework. It's a professional and powerful business consulting template carefully crafted for designer, artists, company, photographer, videographer, architect etc. Gp also could easily be adapted to suit a wide range of websites.
 
 Gp is fully responsive and designed with high-end research in mind, it's a template for mobile-friendly websites and applications, each part, feature and page element will look amazing on all screen sizes, tablets and mobile phones.
